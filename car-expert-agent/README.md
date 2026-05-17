@@ -1,29 +1,28 @@
-# PC Recommender Multi-Agent System
+# Car Expert AI Agent
 
-A beginner AI recommendation system built using Python and the Gemini API.
+A beginner AI-powered car recommendation assistant built using Python and the Gemini API.
 
 ## Overview
 
-This project uses multiple AI agents to recommend PC builds based on user preferences, budget, and requirements.
+This project helps users explore and compare cars based on preferences such as budget, performance, and usage needs.
 
 ## Technologies Used
 
 * Python
 * Gemini API
-* Multi-Agent Workflow Design
 * Prompt Engineering
+* AI Recommendation Logic
 
 ## Features
 
-* Collects user requirements
-* Suggests PC components
-* Recommends builds based on use case
-* Demonstrates AI agent specialization
+* Collects user car preferences
+* Suggests suitable vehicles
+* Explains recommendations
+* Simulates an AI car expert assistant
 
 ## Learning Outcomes
 
-* Recommendation workflow design
-* Multi-agent orchestration
-* Context passing
+* AI workflow structuring
+* Prompt engineering
 * User preference handling
-* AI-based decision systems
+* Recommendation system basics
