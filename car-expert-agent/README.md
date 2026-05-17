@@ -1,28 +1,28 @@
 # Car Expert AI Agent
-
-A beginner AI-powered car recommendation assistant built using Python and the Gemini API.
+An AI-powered car recommendation assistant built using Python and the Gemini API.
 
 ## Overview
+This project simulates a knowledgeable car expert that helps users explore, 
+compare, and choose vehicles based on their preferences, budget, and requirements.
 
-This project helps users explore and compare cars based on preferences such as budget, performance, and usage needs.
+## Tech Stack
+- Python
+- Google Gemini API
+- Prompt Engineering
 
-## Technologies Used
+## How It Works
+1. User describes their car preferences or asks questions
+2. The AI car expert responds with detailed recommendations
+3. Users can compare options and explore trade-offs in a conversational format
 
-* Python
-* Gemini API
-* Prompt Engineering
-* AI Recommendation Logic
+## How to Run
+1. Clone the repository
+2. Install dependencies: `pip install google-generativeai`
+3. Add your Gemini API key
+4. Run: `python google_api_cars.py`
 
-## Features
-
-* Collects user car preferences
-* Suggests suitable vehicles
-* Explains recommendations
-* Simulates an AI car expert assistant
-
-## Learning Outcomes
-
-* AI workflow structuring
-* Prompt engineering
-* User preference handling
-* Recommendation system basics
+## Key Concepts Demonstrated
+- Domain-specific AI agent design
+- System instruction engineering
+- Conversational AI workflow
+- User preference handling
