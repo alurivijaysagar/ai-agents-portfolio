@@ -1,7 +1,7 @@
 # AI Agents Portfolio
 
-A collection of AI agent projects built using Python and the Google Gemini API,
-developed as part of an internship preparation practice at Yash Technologies.
+A collection of AI agent projects built using Python and the Google Gemini API.
+Covers multi-agent systems, RAG workflows, and domain-specific AI assistants.
 
 Built in under 2 weeks — starting from zero knowledge of LLMs and APIs.
 
