@@ -1,6 +1,6 @@
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyDWu55GqxUYLHRv1gDcDXLmGhqQsg9q8go")
+genai.configure(api_key=" ")
 model = genai.GenerativeModel(
     model_name = "gemini-2.5-flash",
     system_instruction = " You are a expert in cars and your job is to give exceptinoal level information of cars available in the market, and you need to compare them and give the best option for the user."
