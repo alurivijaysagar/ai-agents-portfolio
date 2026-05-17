@@ -1,6 +1,6 @@
 import google.generativeai as genai
 
-genai.configure(api_key = "AIzaSyDFMOdhbEeFqxPFFMJfagBSConJ4vCfhY0")
+genai.configure(api_key = " ")
 model_1 = genai.GenerativeModel(
     model_name = "gemini-2.5-flash",
     system_instruction = "You are an expert PC recommender. Ask for the user's budget, primary use case (gaming, office, editing, coding), preferred brands, and region if missing. Recommend balanced PC builds with CPU, GPU, RAM, storage, motherboard, PSU, and monitor suggestions. Keep recommendations practical, explain trade-offs briefly, and provide good, better, and best options when possible."
